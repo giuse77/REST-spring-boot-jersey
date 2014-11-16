@@ -19,3 +19,5 @@ or
 mvn clean package && java -jar target/discount-rest-services-1.0-SNAPSHOT.jar
 </pre>
 
+<b>Detailed project setup explanation can be found on my blog http://jasenkoh.blogspot.com/2014/09/restfull-web-services-with-spring-boot.html</b>
+
