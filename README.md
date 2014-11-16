@@ -5,7 +5,7 @@
 <li>Java 8</li>
 <li>InteliJ</li>
 <li>Maven 3</li>
-<li>Spring Boot 1.1.6.RELEASE</li>
+<li>Spring Boot 1.1.9.RELEASE</li>
 <li>Jersey 2.7</li>
 <ul>
 
